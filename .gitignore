@@ -1,0 +1,49 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+[Ll]ibrary_StandaloneWindows/
+[Ll]ibrary_StandaloneOSXIntel/
+[Ll]ibrary_WebPlayer/
+[Ll]ibrary_Android/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# ===== #
+# Other #
+# ===== #
+*.TMP
+*.zip
+*.rar
+*.apk
+*.iap
+*.html
+*.unity3d

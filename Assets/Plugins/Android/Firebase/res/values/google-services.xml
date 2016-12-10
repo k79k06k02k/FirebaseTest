@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://arkaitest.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">220263327481</string>
+  <string name="google_storage_bucket" translatable="false">arkaitest.appspot.com</string>
+  <string name="google_api_key" translatable="false">AIzaSyDIDlL6qIZPmqNX0tU929htedY3QcA_tHs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIDlL6qIZPmqNX0tU929htedY3QcA_tHs</string>
+  <string name="google_app_id" translatable="false">1:220263327481:android:898d45420a9bca20</string>
+  <string name="default_web_client_id" translatable="false">220263327481-283ilj0c03heum06du0e7fmr4tcphup3.apps.googleusercontent.com</string>
+</resources>

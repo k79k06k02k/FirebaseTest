@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "220263327481",
+    "firebase_url": "https://arkaitest.firebaseio.com",
+    "project_id": "arkaitest",
+    "storage_bucket": "arkaitest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220263327481:android:898d45420a9bca20",
+        "android_client_info": {
+          "package_name": "com.arkai.ArkaiTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220263327481-uis43l71negb666plm20r30o633ks84r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arkai.ArkaiTest",
+            "certificate_hash": "F5CBA3E5B2F8D0F1C19074369B3B6F61CACE03DA"
+          }
+        },
+        {
+          "client_id": "220263327481-283ilj0c03heum06du0e7fmr4tcphup3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDlL6qIZPmqNX0tU929htedY3QcA_tHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220263327481-283ilj0c03heum06du0e7fmr4tcphup3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
