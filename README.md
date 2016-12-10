@@ -1,4 +1,6 @@
 # FirebaseTest
+Unity Firebase Test.
+Requires Unity 5.4.0 or higher.
 
 ##Support & Feedback
 Blog：[http://k79k06k02k.com/blog](http://k79k06k02k.com/blog)<br>
